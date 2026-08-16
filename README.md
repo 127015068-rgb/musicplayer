@@ -63,36 +63,6 @@ fullstack-music-player/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-git clone https://github.com/Harshini479890/Music-Player.git
-
-### 2️⃣ Backend setup
-
-cd backend
-npm install
-npm start
-
-### 3️⃣ Frontend setup
-
-cd frontend
-npm install
-npm start
-
----
-
-## 🔐 Environment Variables
-
-Create a `.env` file inside **backend**:
-
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-PORT=5000
-
----
-
 ## 🎯 Learning Outcomes
 
 - Built a complete full-stack MERN application
@@ -112,10 +82,8 @@ Special thanks to **Web Stack Academy (WSA)** and mentors for their guidance and
 
 ## 👩‍💻 Author
 
-**BhuvaneswarReddy**  
+**Pandana Boyana Kumar | BhuvaneswarReddy**  
 Full Stack Developer | MERN Stack Enthusiast
-
-GitHub: https://github.com/Harshini479890
 
 ---
 
