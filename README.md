@@ -52,16 +52,6 @@ This project demonstrates complete frontend, backend, and database integration w
 
 ---
 
-## 📂 Project Structure
-
-fullstack-music-player/
-│
-├── frontend/ # React client
-├── backend/ # Node + Express server
-├── .gitignore
-└── README.md
-
----
 
 ## 🎯 Learning Outcomes
 
